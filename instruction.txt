@@ -1,0 +1,5 @@
+INSTRUCTIONS:
+At each turn, the player chooses a combination of coloured pegs.
+The computer returns one black dot for each peg on the right position. One white dot for each peg is returned if the combination is in a different position. 
+Then the player chooses a different combination, adding pegs of other colours, switching the order of the coloured pegs, or both. 
+The game continues until the combination is found or the maximum number of turns is reached.
