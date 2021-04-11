@@ -1,0 +1,2 @@
+# Mastermind
+Mastermind is a code-breaking challenge where the computer sets a four-colour code from 8 colours. Within 10 chances, the player must crack the code with proper positioning of the colour pegs, given a few hints about the position and presence of the colour pegs within the computer-set colour code. This game is built using Python with implementation of functions of Tkinter package as the graphic user interface.
